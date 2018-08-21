@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "9e4d07daaf7b15426fbc0599bb2dd4829d01f5e2"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "NASA.MarsRover.VicRoads.Main/1.0.0": {
+        "dependencies": {
+          "Unity": "5.8.6"
+        },
+        "runtime": {
+          "NASA.MarsRover.VicRoads.Main.dll": {}
+        }
+      },
+      "Unity/5.8.6": {
+        "runtime": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp2.0/Unity.Container.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NASA.MarsRover.VicRoads.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity/5.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QEVj2UjwIMBhhhzxBsvfbpHmjPFWsK7NMd4/FniI6GTF0+0/bILEKyGmPe+J9FRIktV1X/Tf8cnhUMVwBunU3A==",
+      "path": "unity/5.8.6",
+      "hashPath": "unity.5.8.6.nupkg.sha512"
+    }
+  }
+}

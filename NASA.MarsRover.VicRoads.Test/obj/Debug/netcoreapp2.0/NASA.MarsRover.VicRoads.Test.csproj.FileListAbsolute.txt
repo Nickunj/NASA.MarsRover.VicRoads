@@ -1,0 +1,17 @@
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.csprojResolveAssemblyReference.cache
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.csproj.CoreCompileInputs.cache
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.AssemblyInfoInputs.cache
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.AssemblyInfo.cs
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.deps.json
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.runtimeconfig.json
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.runtimeconfig.dev.json
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.pdb
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.csproj.CopyComplete
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.pdb
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.dll
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Test\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Test.pdb

@@ -1,0 +1,11 @@
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.deps.json
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.runtimeconfig.json
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.runtimeconfig.dev.json
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.dll
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\bin\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.pdb
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.csproj.CoreCompileInputs.cache
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.AssemblyInfoInputs.cache
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.AssemblyInfo.cs
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.dll
+c:\users\nikun\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.pdb
+C:\Users\NIKUN\source\repos\NASA.MarsRover.VicRoads\NASA.MarsRover.VicRoads.Main\obj\Debug\netcoreapp2.0\NASA.MarsRover.VicRoads.Main.csprojResolveAssemblyReference.cache
