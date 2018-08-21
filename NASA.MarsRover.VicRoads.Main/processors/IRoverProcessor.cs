@@ -11,6 +11,10 @@ namespace NASA.MarsRover.VicRoads.Main.processors
         String Direction { get; set; }
 
         String ReadRoverCommands(String commands);
+        void MoveRoverForward();
+        void TurnRoverToRight();
+        void TurnRoverToLeft();
+        bool CheckRoverPositionOutsideField();
         string ToPositionString();
     }
 }
